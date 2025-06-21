@@ -10,12 +10,19 @@
 
 ## 고려하고 있는 도서
 
-### 후니의 쉽게 쓴 시스코 네트워킹
+### 후니의 쉽게 쓴 시스코 네트워킹 (PASS)
  - 아주 유명하다고는 하는데, 교재가 고리타분 해 보임
- - OSI 7 Layer부터 Switching, Routing, 무선까지 정말 정리가 잘 되어서 나왔다. 
+ - OSI 7 Layer부터 Switching, Routing, 무선까지 정말 정리가 잘 되어서 나왔다.
+ - 본 사람들 후기가 너무 안좋음  
 출처: https://josaboo.tistory.com/11 [조사부 THe Network Story:티스토리]
 
 ### TCP/IP가 보이는 그림책
  - 정보보안, 네트워크, 프로그래밍을 하는 사람들에겐 정말 필수적으로 알아야 되는 기초지식
 출처: https://josaboo.tistory.com/11 [조사부 THe Network Story:티스토리]
+
+###  한 권으로 끝내는 네트워크 기초  (선택)
+ - 비전공자가 봐도 될정도로 쉬움
+ - 200장 남짓
+ - 간단하게 보고 넘어갈수있음
+https://www.yes24.com/Product/Goods/109988382
 
